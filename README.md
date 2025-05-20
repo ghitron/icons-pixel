@@ -4,6 +4,6 @@ This is a collection of pixelated icons that i created for my desktop. Maybe som
 
 ### Content
 
-As of now there are just 21 icons total (with many just being different versions of the same thing). But i will probably keep adding stuff over the time.
+As of now there are just a few icons. But i will probably keep adding stuff over the time.
 
 <img src="preview.png" alt="Preview" width="500"/>
